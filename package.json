@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -11,6 +12,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-  "author": "sentinelGH21",
-  "description": "practice project for freeCodeCamp node courses"
+	"author": "sentinelGH21",
+	"description": "practice project for freeCodeCamp node courses",
+  "keywords": ["freecodecamp", "node", "practice"],
+  "license": "MIT",
+  "version": "1.0.0"    
 }
