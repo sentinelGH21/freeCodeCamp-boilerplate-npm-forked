@@ -10,5 +10,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "author": "sentinelGH21",
+  "description": "practice project for freeCodeCamp node courses"
 }
